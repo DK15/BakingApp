@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BakingApp</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="recipe_details_steps_title">Steps</string>
+    <string name="recipe_details_ingredients_title">Ingredients</string>
+    <string name="recipe_one">Nutella Pie</string>
+    <string name="recipe_two">Brownies</string>
+    <string name="recipe_three">Yellow Cake</string>
+    <string name="recipe_four">Cheesecake</string>
+    <string name="steps">Steps</string>
+    <string name="button_one">Previous</string>
+    <string name="button_two">Next</string>
+    <string name="servings_label">Servings:</string>
+    <string name="image_desc">Recipe Image</string>
+
+</resources>
